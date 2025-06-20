@@ -1,6 +1,6 @@
 # Welcome to AINOXS
 
-This is the official profile repository for AINOXS — meta-adaptive protocols for symbolic cognition, AI interaction, and system logic.
+This is the official profile repository for AINOXS — meta-architectural adaptive protocols for symbolic cognition, AI interaction, and system logic.
 
 ## Current Projects
 
@@ -9,4 +9,4 @@ This is the official profile repository for AINOXS — meta-adaptive protocols f
 
 ## Contact
 
-This profile is maintained by [Aerynox].
+This profile is maintained by [AiNoXs].
